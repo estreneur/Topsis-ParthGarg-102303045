@@ -4,10 +4,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="Topsis-Pratham-102303052",
+    name="Topsis-ParthGarg-102303045",
     version="1.0.2",
-    author="Pratham Garg",
-    author_email="pgarg7_be23@thapar.edu",
+    author="Parth Garg",
+    author_email="pgarg1_be23@thapar.edu",
     description="A Python package for TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) analysis",
     long_description=long_description,
     long_description_content_type="text/markdown",
